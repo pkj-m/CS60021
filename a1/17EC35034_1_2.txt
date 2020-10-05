@@ -1,0 +1,2 @@
+(Question 2a: no output needed)
+(Question 2b: Number of different repositories accessed by client ghtorrent-22 = ,2744)

@@ -1,0 +1,8 @@
+(Question 1a: Number of lines in RDD = ,9669634)                                
+(Question 1b: Number of WARN messages = ,132158)
+(Question 1c: Number of repositories processed with api_client as retrieval_stage = ,71981)
+(Question 1d: Client with maximum HTTP requests = ,13)
+(Question 1d: Client with maximum number of failed HTTP requests = ,13)
+(Question 1e: The most active hour of the day = ,10)
+(Question 1e: The most active repository = ,greatfakeman/Tabchi)
+(Question 1f: The access key which fails the most is = ,ac6168f8776)
